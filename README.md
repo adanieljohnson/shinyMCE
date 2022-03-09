@@ -10,10 +10,12 @@ To install, run:
 ```r
 if (!require("devtools"))
   install.packages("devtools")
-devtools::install_github("shinyMCE", "mul118")
+devtools::install_github("adanieljohnson/shinyMCE")
 ```
 
-The shinyMCE source code is hosted at the [shinyMCE Github repo](https://github.com/mul118/shinyMCE).  More details and examples may be found at the [shinyMCE website](http://mul118.github.io/shinyMCE/).
+This is a clone of the original shinyMCE source code that comes from the [shinyMCE Github repo](https://github.com/mul118/shinyMCE). It is provided here as a convenience for users who need to install it as part of the SAWHET-2 lab report collection tool. 
+
+More details and examples may be found at the [shinyMCE website](http://mul118.github.io/shinyMCE/).
 
 The following demos are available:
 
